@@ -12,7 +12,7 @@ Project 5- Modified project 4 to include a class that contains functions for eac
 
 Fashion Shop Assignment (Project 6)- Created a Fashion shop application with given BTCInput. All classes were included in order for the application to be fully functional.
 
-Project 7- Created an application that recorded purchased grocery items. The user is prompted to enter the grocery item, name, quantity, and price. Grocery details were stored in a dictionary using a given format. Loop was implemented for the user to record all grocery items and to print grocery items along with the total price.
+Project 7- Created an application that recorded purchased grocery items. The user is prompted to enter the grocery item, name, quantity, and price. Grocery details were stored in a dictionary using a given format. Loop was implemented for the user to record all grocery items and printed the grocery items along with the total price.
 
 Project 8- Deployed Project 5 using AWS CodeDeploy.
 
